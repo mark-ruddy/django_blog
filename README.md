@@ -1,7 +1,7 @@
 # django_blog
 
-Demo blog application with tagging, commenting and sorting
-Attempts to connect to a Postgresql database named "blog" under user "blog"
+Demo blog application with tagging, commenting and sorting      
+Expects a Postgresql database named 'blog' which is used to store the posts
 
 Migrate database tables and start app with the below commands:
 ```
